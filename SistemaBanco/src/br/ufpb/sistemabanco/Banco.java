@@ -27,11 +27,11 @@ public class Banco {
 				+ "\nCNPJ: " + this.cnpj;
 	}
 
-	/* Tranferências entre contas do mesmo banco
+	/* Tranferências entre contas do mesmo banco:
 	* saldo disponível, agência, conta, data, valor
 	*/
 	
-	/* Tranferências entre contas de bancos diferentes
+	/* Tranferências entre contas de bancos diferentes:
 	 * saldo disponivel, banco, agẽncia, conta, valor, data, valor
 	 * 
 	 */
